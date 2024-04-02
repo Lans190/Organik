@@ -1,0 +1,114 @@
+html,body{
+    max-width: 100%!important;
+    overflow-x: hidden !important 
+}
+.container1{
+   
+   max-width: 50vh;
+   max-width: 150vw;
+   margin-left: 30vh;
+}
+.logo1{
+    margin-bottom: 5vh;
+}
+.tete{
+margin-left: 15vh;
+margin-top: 8vh;
+}
+a{
+    text-decoration: none;
+    margin: 1%;   
+}
+.onglets{
+    margin-left: 95vh;
+    margin-top: -8vh;
+    flex-direction: column;
+}
+.container2{
+    margin-top: 7vh;
+   
+}
+.image1{
+ background-image: url(./pomme.png);   
+}
+.photo{
+    width: 190vh;
+}
+.voir{
+    margin-top: -10vh;
+}
+.former{
+    margin-left: 95vh;
+    margin-top: -30vh;
+}
+.forme{
+   margin-left: 10vh;
+}
+.page{
+    margin-left: 95vh;
+    width: 20vh;
+    height: 5vh;
+    border-radius: 1vh;
+    color: white;
+    background-color: #274c5b ;
+}
+.container5{
+    margin-top: 25vh;
+    height: 55;
+
+}
+.adresse{
+margin-left: 60vh;
+margin-top: 5vh;
+} 
+
+.deux{
+margin-top: 3vh;
+}
+.tel{
+    margin-top: 3vh;
+}
+.adres{
+    margin-top: 3vh;
+}
+.deplacer{
+    margin-left: 25vh;
+  margin-top: -35vh;
+  border-left: 1px solid;
+}
+.copie1{
+    margin-left: 12vh;
+}
+.lans{
+    margin-top: 5vh;
+    margin-left: 12vh;
+}
+.position1{
+
+margin-top: 10vh;
+margin-left: 12vh;
+
+}
+.pose1{
+    margin-left: 2vh;
+}
+.pose2{
+    margin-left: 2vh;
+}
+.pose3{
+    margin-left:2vh ;
+    margin-top: 2vh;
+}
+.pose4{
+    margin-left:2vh ;
+    margin-top: 2vh;
+}
+.container10{
+   margin-top: 17vh;
+   border-top: 1px solid;
+   
+}
+.lass{
+    margin-left: 75vh;
+    margin-top: 2vh;  
+}

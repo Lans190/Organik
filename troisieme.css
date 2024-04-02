@@ -1,0 +1,409 @@
+html,body{
+    max-width: 100%!important;
+    overflow-x: hidden !important 
+}
+.container1{
+   
+   max-width: 50vh;
+   max-width: 150vw;
+   margin-left: 30vh;
+}
+.logo1{
+    margin-bottom: 5vh;
+}
+.tete{
+margin-left: 15vh;
+margin-top: 8vh;
+}
+a{
+    text-decoration: none;
+    margin: 1%;   
+}
+.onglets{
+    margin-left: 95vh;
+    margin-top: -8vh;
+    flex-direction: column;
+}
+.container2{
+    margin-top: 7vh;
+   
+}
+.image1{
+ background-image: url(./im.png);   
+}
+.forme{
+    margin-top: 2vh;
+}
+.container3{
+  
+    margin-top: 5vh;
+}
+.deplace{
+    margin-left: 20vh;
+    border-radius: 1vh;
+}
+.titre{
+    margin-left: 100vh;
+}
+.monter{
+    margin-top: -50vh;
+}
+.cases{
+    margin-left: 100vh;
+    width: 12vh;
+}
+.sms{
+    width: 25vh;
+    height: 10vh;
+    border-radius: 2vh;
+}
+.interieur{
+    margin-top: 3vh;
+    margin-left: -15vh;
+    width: 8vh;
+}
+.droite{
+    margin-top: -5vh;
+    margin-left: 5vh;
+}
+.droite1{
+    margin-top: -1vh;
+    margin-left: 6vh;
+}
+
+
+
+.cases1{
+    margin-left: 110vh;
+    width: 12vh;
+}
+.sms2{
+    width: 25vh;
+    height: 10vh;
+    margin-top: 2vh;
+    margin-left: -10vh;
+    border-radius: 2vh;
+}
+.inferieur1{
+    margin-top: -2vh;
+   margin-left: -12vh;
+    width: 8vh;
+}
+.gauche1{
+    margin-top: -9vh;
+    margin-left: 7vh;
+}
+.gauche2{
+    margin-top: -1vh;
+    margin-left: 8vh;
+}
+
+.position{
+    margin-top: 5vh;
+    margin-left: 100vh;
+}
+.rond1{
+    width: 5vh;
+    height: 5vh;
+    border-radius: 6vh;
+    margin-left: 1vh;
+}
+.premier{
+    margin-left: 1vh;
+}
+.rond2{
+    width: 5vh;
+    height: 5vh;
+    border-radius: 6vh;
+    margin-left: 1vh;
+}
+.deuxieme{
+    margin-left: 4vh;
+}
+.rond3{
+    width: 5vh;
+    height: 5vh;
+    border-radius: 6vh;
+    margin-left: 1vh;
+}
+.troisieme{
+    margin-left: 2vh;
+}
+.rond4{
+    width: 5vh;
+    height: 5vh;
+    border-radius: 6vh;
+    margin-left: 1vh;
+}
+.quatrieme{
+    margin-left: 2vh;
+}
+.container4{
+border: solid;
+margin-top: 7vh;
+}
+.logo2{
+    width: 190vh;
+    height: 80vh;
+}
+.containergrand{
+    margin-top: -65vh;
+    
+}
+.remplir{
+    border-radius: 3vh;
+    margin-left: 75vh;
+    width: 65vh;
+    height: 55vh;
+}
+.lass1{
+    margin-left:-20vh ;
+    margin-top: -15vh;
+    font-style: italic;
+    color: #7eb693 ;
+}
+.lass2{
+    margin-left:-20vh ;  
+}
+.lass3{
+    margin-left:-20vh ;  
+}
+.lieu{
+    margin-left: 95vh;
+    margin-top: -25vh;
+}
+.localisation1{
+    margin-left: -9vh;
+    margin-top: 4vh;
+}
+.place1{
+    margin-top: -5vh;
+    margin-left: -4vh;
+}
+.place2{
+    margin-left: -4vh;
+}
+.lieu2{
+    margin-left: 95vh;
+    margin-top: 1vh;
+}
+.localisation2{
+    margin-left: -10vh;
+    margin-top: 1vh;
+}
+.place3{
+    margin-top: -4vh;
+    margin-left: -4vh;
+}
+.place4{
+    margin-left: -4vh;
+}
+.container5{
+    margin-top: 16vh;
+    margin-left: 15vh;
+}
+.contact{
+    margin-left: 17vh;
+}
+.milieu{
+    margin-left: 15vh;  
+    border-radius: 2vh;
+    width: 60vh;
+    height: 7vh;
+
+}
+.adress{
+margin-left: -35vh;
+font-style: italic;
+}
+
+.container6{
+    margin-top: -20vh;
+    margin-left: 77vh;
+}
+.contact1{
+    margin-left: 18vh;
+    margin-top: 8vh;
+}
+.milieu1{
+    margin-left: 17vh;  
+    border-radius: 2vh;
+    width: 60vh;
+    height: 7vh;
+}
+.adresse1{
+margin-left: -35vh;
+font-style: italic;
+}
+.container7{
+    margin-top: 5vh;
+    margin-left: 15vh;
+}
+.contact2{
+    margin-left: 17vh;
+    margin-top: 15vh;
+}
+.milieu2{
+    margin-left: 15vh;  
+    border-radius: 2vh;
+    width: 60vh;
+    height: 7vh;
+}
+.adresse2{
+margin-left: -35vh;
+font-style: italic;
+}
+
+.container8{
+    margin-top: -13vh;
+    margin-left: 77vh;
+}
+.contact3{
+    margin-left: 18vh;
+}
+.milieu3{
+    margin-left: 17vh;  
+    border-radius: 2vh;
+    width: 60vh;
+    height: 7vh;
+}
+.adresse3{
+margin-left: -35vh;
+font-style: italic;
+}
+
+.container9{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+.contact4{
+    margin-left: 18vh;
+}
+.milieu4{
+    margin-left: 17vh;  
+    border-radius: 2vh;
+    width: 130vh;
+    height: 25vh;
+}
+.adresse4{
+margin-left: -95vh;
+font-style: italic;
+margin-top: -7vh;
+}
+.envoyer{
+margin-top: 5vh;
+margin-left:30vh ;
+
+}
+.nouveau{
+    border-radius: 2vh;
+    width: 25vh;
+background-color: #274c5b ;
+color: white;
+}
+.container10{
+    margin-top: 15vh;
+}
+.importer{
+    width: 200vh;
+    margin-left: -15vh;
+}
+.rond1{
+ margin-top: -40vh;  
+}
+.modou{
+    margin-top: -5vh;
+    margin-left: 10vh;
+  
+}
+.coco{
+    margin-top: 2vh;
+}
+.yaya{
+    width: 35vh;
+    height: 7vh;
+    margin-left: 95vh;
+    border-radius: 2vh;
+    margin-top: 5vh;
+  
+}
+.caca{
+    margin-top: -5vh;
+    margin-left: -3vh;
+}
+.madou{
+    width: 25vh;
+    height: 7vh;
+    margin-left: 135vh;
+    border-radius: 2vh;
+    background-color:#274c5b  ;
+    color: white;
+    margin-top: -65vh;
+  
+}  
+
+
+.container11{
+    margin-top: 35vh;
+    height: 55;
+
+}
+.adresse{
+margin-left: 60vh;
+margin-top: 5vh;
+} 
+
+.deux{
+margin-top: 3vh;
+}
+.tel{
+    margin-top: 3vh;
+}
+.adres{
+    margin-top: 3vh;
+}
+.deplacer{
+    margin-left: 25vh;
+  margin-top: -35vh;
+  border-left: 1px solid;
+}
+.copie1{
+    margin-left: 12vh;
+}
+.lans{
+    margin-top: 5vh;
+    margin-left: 12vh;
+}
+.position1{
+
+margin-top: 10vh;
+margin-left: 12vh;
+
+}
+.pose1{
+    margin-left: 2vh;
+}
+.pose2{
+    margin-left: 2vh;
+}
+.pose3{
+    margin-left:2vh ;
+    margin-top: 2vh;
+}
+.pose4{
+    margin-left:2vh ;
+    margin-top: 2vh;
+}
+.container12{
+   margin-top: 17vh;
+   border-top: 1px solid;
+   
+}
+.lass{
+    margin-left: 75vh;
+    margin-top: 2vh;  
+}
+
+
+
+

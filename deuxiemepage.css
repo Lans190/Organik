@@ -1,0 +1,235 @@
+html,body{
+    max-width: 100%!important;
+    overflow-x: hidden !important 
+}
+.container1{
+   
+   max-width: 50vh;
+   max-width: 150vw;
+   margin-left: 30vh;
+}
+.logo1{
+    margin-bottom: 5vh;
+}
+.tete{
+margin-left: 15vh;
+margin-top: 8vh;
+}
+a{
+    text-decoration: none;
+    margin: 1%;   
+}
+.onglets{
+    margin-left: 95vh;
+    margin-top: -8vh;
+    flex-direction: column;
+}
+.container2{
+    margin-top: 7vh;
+   
+}
+.image1{
+ background-image: url(./pomme.png);   
+}
+.photo{
+    width: 190vh;
+}
+.voir{
+    margin-top: -10vh;
+}
+.former{
+    margin-left: 95vh;
+    margin-top: -30vh;
+  
+}
+.container3{
+    margin-top: 45vh;
+}
+.forme1{
+    color: #335b6b ;
+    margin-left: 95vh;
+    font-style: italic;
+}
+.forme2{
+    margin-left: 88vh;
+    margin-top: 3vh;
+}
+.bloc1{
+    margin-top: 5vh;
+}
+.logo2{
+    margin-left: 70vh;
+}
+.titre{
+    margin-left: 45vh;
+}
+.soustitre{
+    margin-left: 30vh;
+}
+
+.bloc2{
+    margin-top: 5vh;
+}
+.logo3{
+    margin-left: 70vh;
+}
+.titre1{
+    margin-left: 45vh;
+}
+.soustitre1{
+    margin-left: 30vh;
+}
+
+
+.bloc3{
+    margin-top: 5vh;
+}
+.logo4{
+    margin-left: 70vh;
+}
+.titre2{
+    margin-left: 45vh;
+}
+.soustitre2{
+    margin-left: 30vh;
+}
+.image2{
+    margin-top: -60vh;
+    margin-left: 85vh;
+}
+
+.bloc4{
+    margin-top: -73vh;
+}
+.logo5{
+    margin-left: 150vh;
+}
+.titre3{
+    margin-left: 150vh;
+}
+.soustitre3{
+    margin-left: 150vh;
+}
+
+.bloc5{
+    margin-top: 5vh;
+}
+.logo6{
+    margin-left: 150vh;
+}
+.titre4{
+    margin-left: 150vh;
+}
+.soustitre4{
+    margin-left: 150vh;
+}
+.bloc6{
+    margin-top: 5vh;
+}
+.logo7{
+    margin-left: 150vh;
+}
+.titre5{
+    margin-left: 150vh;
+}
+.soustitre5{
+    margin-left: 150vh;
+}
+.teper{
+    border-radius: 1vh;
+    color:  #335b6b ;
+    height: 5vh;
+    width: 15vh;
+    margin-left: 98vh;
+    margin-top: 12vh;
+
+}
+.container4{
+    margin-top: 10vh;
+    width: 200vh;
+}  
+.image3{
+    width: 190vh;
+}
+.titre6{
+    margin-top: -85vh;
+    margin-left: 85vh;
+    color:#7eb693 ;
+    font-style: italic;
+}
+.titregrand{
+    margin-left: 75vh;
+    margin-top: 10vh;
+}
+.point{
+    margin-left: 95vh; 
+    margin-top: 3vh;
+}
+.milieu{
+    height: 7vh;
+    width: 7vh; 
+    border-radius: 5vh;
+    background-color:#7eb693 ;
+}
+
+
+.container5{
+    margin-top: 75vh;
+    height: 55;
+
+}
+.adresse{
+margin-left: 60vh;
+margin-top: 5vh;
+} 
+
+.deux{
+margin-top: 3vh;
+}
+.tel{
+    margin-top: 3vh;
+}
+.adres{
+    margin-top: 3vh;
+}
+.deplacer{
+    margin-left: 25vh;
+  margin-top: -35vh;
+  border-left: 1px solid;
+}
+.copie1{
+    margin-left: 12vh;
+}
+.lans{
+    margin-top: 5vh;
+    margin-left: 12vh;
+}
+.position1{
+
+margin-top: 10vh;
+margin-left: 12vh;
+
+}
+.pose1{
+    margin-left: 2vh;
+}
+.pose2{
+    margin-left: 2vh;
+}
+.pose3{
+    margin-left:2vh ;
+    margin-top: 2vh;
+}
+.pose4{
+    margin-left:2vh ;
+    margin-top: 2vh;
+}
+.container10{
+   margin-top: 17vh;
+   border-top: 1px solid;
+   
+}
+.lass{
+    margin-left: 75vh;
+    margin-top: 2vh;  
+}

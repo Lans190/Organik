@@ -1,0 +1,459 @@
+html,body{
+    max-width: 100%!important;
+    overflow-x: hidden !important 
+}
+.container1{
+   
+   max-width: 50vh;
+   max-width: 150vw;
+   margin-left: 30vh;
+}
+.logo1{
+    margin-bottom: 5vh;
+}
+.tete{
+margin-left: 15vh;
+margin-top: 8vh;
+}
+a{
+    text-decoration: none;
+    margin: 1%;   
+}
+.onglets{
+    margin-left: 95vh;
+    margin-top: -8vh;
+    flex-direction: column;
+}
+.container2{
+    margin-top: 7vh;
+   
+}
+.image1{
+ background-image: url(./pomme.png);   
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.photo{
+    width: 190vh;
+}
+.voir{
+    margin-top: -10vh;
+}
+.former{
+    margin-left: 95vh;
+    margin-top: -30vh;}
+
+.container3{
+   margin-top: 45vh;
+   margin-left: 10vh;
+}
+.poete{
+    margin-left: 85vh;
+    margin-top: -60vh;
+}
+.forme1{
+    font-style: italic;
+    color: chartreuse ;
+}
+.decent{
+    margin-top: 3vh;
+}
+.petitlogo{
+margin-left:85vh ;
+margin-top: 5vh;
+}
+.forme2{
+margin-left: 6vh;
+margin-top: -5vh;
+}
+.petitlogo1{
+    margin-left:110vh ;
+    margin-top: -7vh;
+    }
+    .forme3{
+    margin-left: 6vh;
+    margin-top: -10vh;
+    }
+.taper{
+margin-left: 85vh;
+margin-top: 7vh;
+}
+.regar{
+    width: 15vh;
+    height: 5vh;
+    border-radius: 1vh;
+    background-color: #274c5b;
+    color: white;
+}
+.container4{
+    margin-top: 20vh;
+    margin-left:95vh ;
+
+}
+.image3{
+    border-radius: 2vh;
+    margin-top: 12vh;
+}
+.poete2{
+    margin-left: -65vh;
+    margin-top: -50vh;
+}
+.forme4{
+    font-style: italic;
+    color: #5b8c3e ;
+}
+.lesboutons{
+    margin-top: 3vh;
+}
+.oriente{
+margin-left: -65vh;
+}
+.import{
+    width: 25vh;
+    height: 5vh;
+    border-radius: 2vh;
+}
+.logo4{
+    margin-left: -6vh;
+}
+.poete3{
+    margin-left: -60vh;
+ 
+}
+
+.lesboutons1{
+    margin-top: 2vh;
+}
+.oriente1{
+margin-left: -65vh;
+}
+.import1{
+    width: 25vh;
+    height: 5vh;
+    border-radius: 2vh;
+}
+.logo5{
+    margin-left: -6vh;
+}
+.poete4{
+    margin-left: -60vh;
+  
+}
+.classement{
+    margin-top: 20vh;
+    margin-left: -65vh;
+}
+.nouveau{
+    width: 25vh;
+    height: 35vh;
+    border-radius: 2vh;
+    background-color: white;
+}
+.logo6{
+    margin-top: -8vh;
+}
+
+.classement1{
+    margin-top: -35vh;
+    margin-left: -35vh;
+}
+.nouveau1{
+    width: 25vh;
+    height: 35vh;
+    border-radius: 2vh;
+    background-color: white;
+}
+.logo7{
+    margin-top: -8vh;
+}
+
+.classement2{
+    margin-top: -35vh;
+    margin-left: -5vh;
+}
+.nouveau2{
+    width: 25vh;
+    height: 35vh;
+    border-radius: 2vh;
+    background-color: white;
+}
+.logo8{
+    margin-top: -8vh;
+}
+
+.classement3{
+    margin-top: -35vh;
+    margin-left: 25vh;
+}
+.nouveau3{
+    width: 25vh;
+    height: 35vh;
+    border-radius: 2vh;
+    background-color: white;
+}
+.logo9{
+    margin-top: -8vh;
+}
+.container5{
+    margin-top: 20vh;
+}
+.vasy1{
+   margin-left: 85vh; 
+   color:  #274c5b;
+   font-style: italic;
+}
+.vasy2{
+    margin-left: 76vh;    
+}
+.vasy3{
+    margin-left: 70vh;    
+}
+.nouveau4{
+    margin-top: 10vh;
+    margin-left: 30vh;
+}
+.nom{
+    border-radius: 2vh;
+}
+.personne1{
+    border-radius: 2vh;
+}
+.face{
+    margin-left: 20vh;
+    margin-top: -15vh;
+}
+.fonction{
+    font-style: italic;
+    color: #5b8c3e;
+}
+
+.nouveau5{
+    margin-top: -50vh;
+    margin-left: 75vh;
+}
+.nom1{
+    border-radius: 2vh;
+}
+.personne2{
+    border-radius: 2vh;
+}
+.face1{
+    margin-left: 20vh;
+    margin-top: -15vh;
+}
+.fonction1{
+    font-style: italic;
+    color: #5b8c3e;
+}
+
+.nouveau6{
+    margin-top: -50vh;
+    margin-left: 120vh;
+}
+.nom2{
+    border-radius: 2vh;
+}
+.personne3{
+    border-radius: 2vh;
+}
+.face2{
+    margin-left: 20vh;
+    margin-top: -15vh;
+}
+.fonction2{
+    font-style: italic;
+    color: #5b8c3e;
+}
+
+
+.container6{
+margin-top: 15vh;
+  background-color: #274c5b ;
+  height: 90vh;
+  width: 190vh;
+}
+.titré{
+    margin-left: 80vh;
+    padding-top: 20vh;
+    font-style: italic;
+    color: #5b8c3e;;
+}
+.soustitré{
+    margin-left: 75vh;
+    font-style: italic;
+    color: white;
+}
+.premier{
+margin-left: 40vh;
+margin-top: 15vh;
+}
+.dolo{
+border-radius: 2vh;
+}
+.soustitré1{
+  margin-left:10vh ; 
+  color: white; 
+}
+
+.deuxieme{
+    margin-left: 70vh;
+    margin-top: -33vh;
+    }
+    .dolo1{
+    border-radius: 2vh;
+    }
+    .soustitré2{
+      margin-left:3vh ; 
+      color: white; 
+    }
+
+    .troisieme{
+        margin-left: 100vh;
+        margin-top: -33vh;
+        }
+        .dolo2{
+        border-radius: 2vh;
+        }
+        .soustitré3{
+          margin-left:10vh ; 
+          color: white; 
+        }
+
+.quatrieme{
+    margin-left: 129vh;
+    margin-top: -33vh;
+    }
+    .dolo3{
+    border-radius: 2vh;
+    }
+    .soustitré4{
+      margin-left:4vh ; 
+      color: white; 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .container8{
+        margin-top: 5vh;
+    }
+    .coller{
+        margin-left: 15vh;
+        border-radius: 2vh;
+        width: 150vh;
+    }
+    .orienter{
+        margin-top: -20vh;
+        margin-left: 25vh;
+        color: white;
+       
+    }
+    .butonmoyen{
+        margin-left: 99vh;
+        margin-top: -10vh;
+    }
+    .floké2{
+        width: 25vh;
+        height: 5vh;
+        border-radius: 2vh;
+    }
+    .gauche{
+        margin-right: 15vh;
+    }
+    .butonpetit{
+        margin-left: 125vh;
+        margin-top: -5vh;
+    }
+    .floké3{
+        width: 15vh;
+        height: 5vh;
+       border-radius: 2vh;
+       background-color: #274c5b ;
+       color: white;
+    }
+    .container9{
+        margin-top: 25vh;
+        height: 55;
+    
+    }
+    .adresse{
+    margin-left: 60vh;
+    margin-top: 5vh;
+    } 
+    
+    .deux{
+    margin-top: 3vh;
+    }
+    .tel{
+        margin-top: 3vh;
+    }
+    .adres{
+        margin-top: 3vh;
+    }
+    .deplacer{
+        margin-left: 25vh;
+      margin-top: -35vh;
+      border-left: 1px solid;
+    }
+    .copie1{
+        margin-left: 12vh;
+    }
+    .lans{
+        margin-top: 5vh;
+        margin-left: 12vh;
+    }
+    .position1{
+    
+    margin-top: 10vh;
+    margin-left: 12vh;
+    
+    }
+    .pose1{
+        margin-left: 2vh;
+    }
+    .pose2{
+        margin-left: 2vh;
+    }
+    .pose3{
+        margin-left:2vh ;
+        margin-top: 2vh;
+    }
+    .pose4{
+        margin-left:2vh ;
+        margin-top: 2vh;
+    }
+    .container10{
+       margin-top: 17vh;
+       border-top: 1px solid;
+       
+    }
+    .lass{
+        margin-left: 75vh;
+        margin-top: 2vh;  
+    }
